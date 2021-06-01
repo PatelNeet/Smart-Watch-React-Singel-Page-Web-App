@@ -1,0 +1,61 @@
+.productData {
+    width: 50%;
+}
+.productTitle{
+    font-size: 48px;
+    font-weight:600;
+}
+
+.productDescription{
+    font-size: 20px;
+    color: rgba(0,0,0,0.7);
+    margin-top: 0px;
+    margin-bottom: 16px;
+}
+
+.sectionHeading{
+    font-size: 28px;
+    margin-bottom: 8px;
+}
+.productImg{
+    width: 100%;
+    max-width: 60px;
+
+    border: 2px solid transparent;
+    border-radius: 8px;
+    margin-right: 12px;
+    cursor: pointer;
+}
+.selectedproductImg{
+    border: 2px solid teal;
+}
+
+.featureItem{
+    min-width: 70px;
+    background-color: gainsboro;
+    border-radius: 8px;
+    border: 0;
+    text-align: center;
+    margin-right: 12px;
+    cursor: pointer;
+    box-sizing: content-box;
+
+    padding: 12px 24px;
+    font-weight: 600;
+}
+
+.selectedfeatureItem{
+    color: white;
+    background-color: grey;
+}
+
+.primaryBtn{
+    color: white;
+    background-color: teal;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 8px;
+    border:0;
+    padding: 12px 24px;
+    margin-top: 36px;
+}

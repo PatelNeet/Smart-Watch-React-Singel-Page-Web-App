@@ -1,0 +1,9 @@
+.footerbar{
+    text-align: center;
+    background-color: black;
+    padding: 2.5px 0;
+    color: white;
+}
+.footerbar p > span {
+    color: red;
+}
