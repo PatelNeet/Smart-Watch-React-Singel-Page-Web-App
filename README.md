@@ -1,1 +1,1 @@
-# Smart-Watch-React-Singel-Page-Web-App
+# Amezon-Smart-Watch-React-Singel-Page-WebApp
